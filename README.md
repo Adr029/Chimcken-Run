@@ -9,6 +9,7 @@ Chimcken Run was a project done for our Game Development course. It involves a c
 <br>
 
 ![Screenshot (514) (1)](https://github.com/Adr029/Chimcken-Run/assets/108637165/af2da0b6-e8d0-4da3-bf92-ffd48f0df0f5)
+--- 
 ![Screenshot (515)](https://github.com/Adr029/Chimcken-Run/assets/108637165/080c08a4-b51e-4c9d-beb4-58c769cdf432)
 
 
