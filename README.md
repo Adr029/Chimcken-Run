@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
 
 Chimcken Run was a project done for our Game Development course. It involves a chicken collecting eggs while avoiding getting eaten by wolves. 
-
+It is made for Windows computers.
 <details>
 <summary>Screenshots</summary>
 
